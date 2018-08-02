@@ -1,6 +1,5 @@
-#POSTで送信された各動画の解析結果が表情分析システムからＰＯＳＴとしておくられてくるので
-#受領したらベルフェース側で以下のような{"status": "accepted"}を応答メッセージで返す
 #Apache、WSGIでのサンプル
+#変更したよ
 import sys
 import json
 import os
