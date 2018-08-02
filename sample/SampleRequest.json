@@ -1,0 +1,10 @@
+﻿{"config":{
+        "analysys_sequence":10,
+        "climax_count_lower_limit":30,
+        "detect_count":2
+},
+"videos":[
+        {"url":"https://s3-us-west-1.amazonaws.com/mov-test/5a55bbf0533c4.mp4"},
+        {"url":"https://s3-us-west-1.amazonaws.com/mov-test/5a71154f4b813.mp4"}
+        ]
+}
